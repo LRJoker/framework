@@ -1,0 +1,21 @@
+package ${package}
+
+import (
+
+)
+
+func (ctl ${controller}) Index (c *gin.Context) {
+
+}
+
+func (ctl ${controller}) Create (c *gin.Context) {
+
+}
+
+func (ctl ${controller}) Update (c *gin.Context) {
+
+}
+
+func (ctl ${controller}) Delete (c *gin.Context) {
+
+}
